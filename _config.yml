@@ -1,5 +1,5 @@
-title: Jual Khodam
-description: Blog
+title: Jasa Indigo Konsultasi Tanya Jawab
+description: Jasa Indigo, Tempat konsultasi dengan anak indigo Indonesia. Ketahui Fenomena Supranatural Semesta
 show_downloads: false
 google_analytics:
 # Your website URL (e.g. http://lafronzt.github.io or https://lafronz.com)
@@ -10,7 +10,7 @@ url:
 # and NOT your User repository (http://lafronzt.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 # otherwise leave as ""
-baseurl: "https://jual.khodam.my.id"
+baseurl: "https://jasaindigo.com"
 # Used for the Schema Data, as well as for other SEO Data.
 # (e.g. Tyler La Fronz)
 name:
