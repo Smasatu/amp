@@ -11,9 +11,4 @@ Dalam psikologi,  terbagi 2 pendapat. Positif, karena memiliki potensi kecerdasa
 
 Namun religi dan psikologi tidak bisa menjelaskan tentang supranatural terlalu jauh, karena terikat sistem kepercayaan dan keterbatasan meneliti hal non fisik.
 
-Dan memprediksi ini masih luas lagi pertanyaannya. 
-
-Ketentuan:
-Jasa indigo ini terbatas untuk tujuan positif dan bijak menggunakan hasil jawaban.
-
 By Jasaindigo.com
